@@ -1,0 +1,29 @@
+{
+  "name": "@username/obj-helper",
+  "version": "0.0.1",
+  "description": "Various helper functions for working with object and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonnes/obj-helper.git"
+  },
+  "keywords": [
+    "object",
+    "helper",
+    "compare",
+    "indexOf",
+    "array"
+  ],
+  "author": "Anthony Nikolov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonnes/obj-helper/issues"
+  },
+  "homepage": "https://github.com/antonnes/obj-helper#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
