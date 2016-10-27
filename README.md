@@ -69,7 +69,7 @@ var rebels = [
 ];
 
 oh.indexOfObj(rebels, {
-    name: 'Chewbacca",
+    name: 'Chewbacca',
     job: 'Pilot',
     age: 200
   }); // returns 2
