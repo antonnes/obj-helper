@@ -52,7 +52,7 @@ var objsEqual = oh.compare(obj,obj2); // returns true
 ```
 var rebels = [
   {
-    name: 'Han",
+    name: 'Han',
     job: 'Smuggler',
     age: 29
   },
