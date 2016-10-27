@@ -16,7 +16,7 @@ var obj = {
   teacher: 'Master Yoda'
 }
 
-var oh.size(obj); // returns 3
+var objSize = oh.size(obj); // returns 3
 ```
 
 ## Return the values of an Object as a string
@@ -44,7 +44,7 @@ var obj2 = {
   druid: 'R2D2'
 }
 
-oh.compare(obj,obj2); // returns true
+var objsEqual = oh.compare(obj,obj2); // returns true
 ```
 
 ## Check if an object is in array of objects
