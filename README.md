@@ -13,7 +13,7 @@ Various helper functions for working with object and arrays
 var obj = {
   name: 'Luke',
   age: 19,
-  teacher: 'Master Yoda'
+  druid: 'R2D2'
 }
 
 var objSize = oh.size(obj); // returns 3
