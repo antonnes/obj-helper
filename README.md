@@ -57,12 +57,12 @@ var rebels = [
     age: 29
   },
   {
-    name: 'Leia",
+    name: 'Leia',
     job: 'Princess',
     age: 19
   },
   {
-    name: 'Chewbacca",
+    name: 'Chewbacca',
     job: 'Pilot',
     age: 200
   }
